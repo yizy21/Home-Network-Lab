@@ -92,7 +92,7 @@ This lab confirmed hands-on understanding of subnetting, switch administration o
 - `cable-test.png`
 - `wireshark-dns.png`
 - `wireshark-tcp-handshake.png`
-- `wireshark-dhcp-dora.webp`
+- `wireshark-dhcp-dora.png`
 
 ## Skills demonstrated
 `subnetting` `CIDR` `switch administration` `cable diagnostics` `ARP` `routing tables` `Wireshark` `packet analysis` `TCP/IP` `DNS` `DHCP`
