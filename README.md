@@ -8,7 +8,7 @@ Hands-on networking and security labs built on a home lab (TP-Link TL-SG108E man
 
 | # | Lab | Status | Write-up |
 |---|---|---|---|
-| 1 | Wired Fundamentals — subnetting, port mirroring, packet capture | 🔲 Not started | [`01-wired-fundamentals/`](./01-wired-fundamentals) |
+| 1 | Wired Fundamentals — subnetting, port mirroring, packet capture | ✅ Complete | [01-wired-fundamentals/](01-wired-fundamentals/) |
 | 2 | Wireless Security — monitor mode, handshake capture, WPA2 cracking | 🔲 Not started | [`02-wireless-security/`](./02-wireless-security) |
 | 3 | WAN/NAT — port forwarding exposure test | 🔲 Not started | [`03-wan-nat/`](./03-wan-nat) |
 | 4 | Troubleshooting — structured break/fix methodology | 🔲 Not started | [`04-troubleshooting/`](./04-troubleshooting) |
