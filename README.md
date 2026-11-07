@@ -11,7 +11,7 @@ Hands-on networking and security labs built on a home lab (TP-Link TL-SG108E man
 | 1 | Wired Fundamentals — subnetting, port mirroring, packet capture | ✅ Complete | [01-wired-fundamentals/](01-wired-fundamentals/) |
 | 2 | Wireless Security — monitor mode, handshake capture, WPA2 cracking | ✅ Complete | [`02-wireless-security/`](./02-wireless-security) |
 | 3 | WAN/NAT — CGNAT discovery, port forwarding limits | ✅ Complete | [`03-wan-nat/`](./03-wan-nat) |
-| 4 | Troubleshooting — structured break/fix methodology | 🔲 Not started | [`04-troubleshooting/`](./04-troubleshooting) |
+| 4 | Troubleshooting — structured break/fix methodology | ✅ Complete | [`04-troubleshooting/`](./04-troubleshooting) |
 | 5 | Capstone — VLAN isolation + mini network pentest | 🔲 Not started | [`05-capstone-vlan-pentest/`](./05-capstone-vlan-pentest) |
 
 ## Background
